@@ -35,7 +35,7 @@ const InboxDetailed = () => {
                           className="h-[1.25rem] w-[1.25rem] relative"
                           loading="lazy"
                           alt=""
-                          src="/vector-16.svg"
+                          src="./vector-16.svg"
                         />
                         <h3 className="m-0 relative text-inherit font-normal font-inherit inline-block min-w-[5.813rem]">
                           Your Profile
@@ -49,7 +49,7 @@ const InboxDetailed = () => {
                           className="h-[1.25rem] w-[1.25rem] relative"
                           loading="lazy"
                           alt=""
-                          src="/vector-17.svg"
+                          src="./vector-17.svg"
                         />
                         <a className="[text-decoration:none] relative text-[inherit]">
                           Manage your feed
@@ -63,7 +63,7 @@ const InboxDetailed = () => {
                         className="h-[1.25rem] w-[1.25rem] relative"
                         loading="lazy"
                         alt=""
-                        src="/vector-18.svg"
+                        src="./vector-18.svg"
                       />
                       <h3 className="m-0 relative text-inherit font-normal font-inherit inline-block min-w-[5.313rem]">
                         Your posts
@@ -77,7 +77,7 @@ const InboxDetailed = () => {
                           className="w-[1.25rem] h-[1.25rem] relative"
                           loading="lazy"
                           alt=""
-                          src="/-x37-7-essential-icons.svg"
+                          src="./-x37-7-essential-icons.svg"
                         />
                       </div>
                       <h3 className="m-0 relative text-inherit font-normal font-inherit">
@@ -91,7 +91,7 @@ const InboxDetailed = () => {
                         className="h-[1.563rem] w-[1.563rem] relative object-cover min-h-[1.563rem]"
                         loading="lazy"
                         alt=""
-                        src="/terms-and-conditions@2x.png"
+                        src="./terms-and-conditions@2x.png"
                       />
                       <div className="flex flex-col items-start justify-start pt-[0.25rem] px-[0rem] pb-[0rem]">
                         <h3 className="m-0 relative text-inherit font-normal font-inherit">
@@ -110,13 +110,13 @@ const InboxDetailed = () => {
                           className="absolute top-[0rem] left-[0rem] w-[1.25rem] h-[1.25rem] object-cover"
                           loading="lazy"
                           alt=""
-                          src="/alarm@2x.png"
+                          src="./alarm@2x.png"
                         />
                         <img
                           className="absolute top-[2rem] left-[0.063rem] w-[1.25rem] h-[1.25rem] object-cover"
                           loading="lazy"
                           alt=""
-                          src="/help@2x.png"
+                          src="./help@2x.png"
                         />
                       </div>
                       <div className="flex flex-col items-start justify-start gap-[0.625rem]">
@@ -136,7 +136,7 @@ const InboxDetailed = () => {
                           className="w-[1.25rem] h-[1.25rem] relative object-cover"
                           loading="lazy"
                           alt=""
-                          src="/logout-rounded@2x.png"
+                          src="./logout-rounded@2x.png"
                         />
                       </div>
                       <h3
@@ -156,7 +156,7 @@ const InboxDetailed = () => {
                         className="h-[0.875rem] w-[0.875rem] absolute !m-[0] top-[calc(50%_-_7px)] left-[calc(50%_-_7px)] overflow-hidden shrink-0 z-[1]"
                         loading="lazy"
                         alt=""
-                        src="/bin.svg"
+                        src="./bin.svg"
                       />
                     </div>
                     <div className="flex-1 flex flex-col items-start justify-start gap-[1.25rem]">
@@ -246,7 +246,7 @@ const InboxDetailed = () => {
                           <img
                             className="absolute top-[0.456rem] left-[0.456rem] w-[0.581rem] h-[0.581rem] z-[1]"
                             alt=""
-                            src="/vector-19.svg"
+                            src="./vector-19.svg"
                           />
                         </div>
                       </div>

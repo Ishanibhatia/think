@@ -16,7 +16,7 @@ const FrameComponent5 = ({ className = "" }) => {
             className="w-[1.25rem] h-[1.25rem] relative overflow-hidden shrink-0 z-[1]"
             loading="lazy"
             alt=""
-            src="/new.svg"
+            src="./new.svg"
           />
         </div>
       </div>
@@ -30,7 +30,7 @@ const FrameComponent5 = ({ className = "" }) => {
                     className="self-stretch w-[2.5rem] relative rounded-8xs max-h-full object-cover min-h-[2.875rem] z-[1]"
                     loading="lazy"
                     alt=""
-                    src="/image-3@2x.png"
+                    src="./image-3@2x.png"
                   />
                   <div className="flex-1 flex flex-col items-start justify-start gap-[0.812rem]">
                     <div className="relative inline-block min-w-[7.625rem] z-[1]">
@@ -50,19 +50,19 @@ const FrameComponent5 = ({ className = "" }) => {
                       className="w-[2.5rem] h-[2.881rem] relative rounded-8xs object-cover z-[1]"
                       loading="lazy"
                       alt=""
-                      src="/image-4@2x.png"
+                      src="./image-4@2x.png"
                     />
                     <img
                       className="w-[2.5rem] h-[2.875rem] relative rounded-8xs object-cover z-[1]"
                       loading="lazy"
                       alt=""
-                      src="/image-1@2x.png"
+                      src="./image-1@2x.png"
                     />
                     <img
                       className="w-[2.5rem] h-[2.875rem] relative rounded-8xs object-cover z-[1]"
                       loading="lazy"
                       alt=""
-                      src="/image-2@2x.png"
+                      src="./image-2@2x.png"
                     />
                   </div>
                   <div className="flex-1 flex flex-col items-start justify-start pt-[0.187rem] px-[0rem] pb-[0rem]">
@@ -104,7 +104,7 @@ const FrameComponent5 = ({ className = "" }) => {
                       className="self-stretch w-[2.5rem] relative rounded-8xs max-h-full object-cover min-h-[2.875rem] z-[2]"
                       loading="lazy"
                       alt=""
-                      src="/image-3@2x.png"
+                      src="./image-3@2x.png"
                     />
                     <div className="flex-1 flex flex-col items-start justify-start gap-[0.812rem]">
                       <div className="relative inline-block min-w-[7.625rem] z-[2]">

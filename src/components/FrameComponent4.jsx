@@ -13,7 +13,7 @@ const FrameComponent4 = ({ className = "" }) => {
               className="h-[2.881rem] w-[2.5rem] relative rounded-8xs object-cover z-[1]"
               loading="lazy"
               alt=""
-              src="/image-3@2x.png"
+              src="./image-3@2x.png"
             />
             <div className="flex-1 flex flex-col items-start justify-start pt-[0.187rem] px-[0rem] pb-[0rem] box-border min-w-[13.875rem] max-w-full">
               <div className="flex flex-col items-start justify-start gap-[0.437rem]">
@@ -28,13 +28,13 @@ const FrameComponent4 = ({ className = "" }) => {
                 className="absolute top-[0rem] left-[0rem] w-[1.25rem] h-[1.25rem] object-cover z-[1]"
                 loading="lazy"
                 alt=""
-                src="/video-conference@2x.png"
+                src="./video-conference@2x.png"
               />
               <img
                 className="absolute top-[0rem] left-[1.625rem] w-[1.25rem] h-[1.25rem] object-cover z-[1]"
                 loading="lazy"
                 alt=""
-                src="/multiply@2x.png"
+                src="./multiply@2x.png"
               />
             </div>
           </div>
@@ -149,25 +149,25 @@ const FrameComponent4 = ({ className = "" }) => {
                 className="h-[0.75rem] w-[0.75rem] relative object-cover min-h-[0.75rem] z-[2]"
                 loading="lazy"
                 alt=""
-                src="/attach@2x.png"
+                src="./attach@2x.png"
               />
               <img
                 className="h-[0.75rem] w-[0.75rem] relative object-cover min-h-[0.75rem] z-[2]"
                 loading="lazy"
                 alt=""
-                src="/calendar-plus@2x.png"
+                src="./calendar-plus@2x.png"
               />
               <img
                 className="h-[0.75rem] w-[0.75rem] relative object-cover min-h-[0.75rem] z-[2]"
                 loading="lazy"
                 alt=""
-                src="/wink@2x.png"
+                src="./wink@2x.png"
               />
               <img
                 className="h-[0.75rem] w-[0.75rem] relative object-cover min-h-[0.75rem] z-[2]"
                 loading="lazy"
                 alt=""
-                src="/sent@2x.png"
+                src="./sent@2x.png"
               />
             </div>
           </div>

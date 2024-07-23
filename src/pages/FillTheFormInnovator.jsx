@@ -1,5 +1,4 @@
 import { useCallback } from "react";
-import NameInput from "../components/NameInput";
 import ContactNumber from "../components/ContactNumber";
 import { useNavigate } from "react-router-dom";
 
@@ -37,7 +36,7 @@ const FillTheFormInnovator = () => {
             <img
               className="h-[1.875rem] w-[1.875rem] relative object-cover z-[2]"
               alt=""
-              src="/tearoff-calendar@2x.png"
+              src="./tearoff-calendar@2x.png"
             />
           </div>
         </div>

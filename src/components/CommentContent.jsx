@@ -34,17 +34,17 @@ const CommentContent = ({
             <img
               className="h-[0.625rem] w-[0.75rem] relative shrink-0 min-h-[0.625rem] z-[6]"
               alt=""
-              src="/vector-191.svg"
+              src="./vector-191.svg"
             />
             <img
               className="h-[0.625rem] w-[0.625rem] relative shrink-0 min-h-[0.625rem] z-[6]"
               alt=""
-              src="/vector-20.svg"
+              src="./vector-20.svg"
             />
             <img
               className="h-[0.625rem] w-[0.625rem] relative shrink-0 min-h-[0.625rem] z-[6]"
               alt=""
-              src="/vector-21.svg"
+              src="./vector-21.svg"
             />
           </div>
         </div>

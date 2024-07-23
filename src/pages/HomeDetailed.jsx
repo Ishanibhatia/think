@@ -27,7 +27,7 @@ const HomeDetailed = () => {
             className="h-[1.25rem] w-[1.25rem] absolute !m-[0] top-[calc(50%_-_10px)] left-[calc(50%_-_10px)] object-contain z-[1]"
             loading="lazy"
             alt=""
-            src="/calendar@2x.png"
+            src="./calendar@2x.png"
           />
         </div>
         <section className="flex-1 flex flex-row flex-wrap items-start justify-center [row-gap:20px] max-w-full text-left text-[1.375rem] text-white font-arial">
@@ -44,7 +44,7 @@ const HomeDetailed = () => {
                       className="w-[1.25rem] h-[1.25rem] relative overflow-hidden shrink-0"
                       loading="lazy"
                       alt=""
-                      src="/new.svg"
+                      src="./new.svg"
                     />
                   </div>
                 </div>
@@ -61,13 +61,13 @@ const HomeDetailed = () => {
                       <img
                         className="absolute top-[0rem] left-[0rem] rounded-8xs w-full h-full object-cover hidden"
                         alt=""
-                        src="/image-8@2x.png"
+                        src="./image-8@2x.png"
                       />
                       <img
                         className="absolute top-[0rem] left-[0rem] rounded-8xs w-full h-full object-cover z-[3]"
                         loading="lazy"
                         alt=""
-                        src="/image-3@2x.png"
+                        src="./image-3@2x.png"
                       />
                     </div>
                     <div className="flex-1 flex flex-col items-start justify-start pt-[0.187rem] px-[0rem] pb-[0rem] box-border min-w-[15.813rem] max-w-full">
@@ -84,17 +84,17 @@ const HomeDetailed = () => {
                           <img
                             className="h-[0.75rem] w-[0.875rem] relative min-h-[0.75rem] z-[2]"
                             alt=""
-                            src="/vector-1.svg"
+                            src="./vector-1.svg"
                           />
                           <img
                             className="h-[0.75rem] w-[0.75rem] relative min-h-[0.75rem] z-[2]"
                             alt=""
-                            src="/vector-2.svg"
+                            src="./vector-2.svg"
                           />
                           <img
                             className="h-[0.75rem] w-[0.75rem] relative min-h-[0.75rem] z-[2]"
                             alt=""
-                            src="/vector-3.svg"
+                            src="./vector-3.svg"
                           />
                         </div>
                       </div>
@@ -113,7 +113,7 @@ const HomeDetailed = () => {
                       className="h-[2.875rem] w-[2.5rem] relative rounded-8xs object-cover z-[2]"
                       loading="lazy"
                       alt=""
-                      src="/image-10@2x.png"
+                      src="./image-10@2x.png"
                     />
                     <div className="flex-1 flex flex-col items-start justify-start pt-[0.187rem] px-[0rem] pb-[0rem] box-border min-w-[15.813rem] max-w-full">
                       <div className="self-stretch relative leading-[0.75rem] font-light z-[2]">{`Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis condimentum enim gravida dignissim imperdiet. Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis condimentum enim gravida dignissim imperdiet. Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis condimentum enim gravida dignissim imperdiet. Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis condimentum enim gravida dignissim imperdiet. Lorem ipsum dolor sit amet, `}</div>
@@ -125,19 +125,19 @@ const HomeDetailed = () => {
                         className="h-[0.75rem] w-[0.875rem] relative min-h-[0.75rem] z-[2]"
                         loading="lazy"
                         alt=""
-                        src="/vector-1.svg"
+                        src="./vector-1.svg"
                       />
                       <img
                         className="h-[0.75rem] w-[0.75rem] relative min-h-[0.75rem] z-[2]"
                         loading="lazy"
                         alt=""
-                        src="/vector-2.svg"
+                        src="./vector-2.svg"
                       />
                       <img
                         className="h-[0.75rem] w-[0.75rem] relative min-h-[0.75rem] z-[2]"
                         loading="lazy"
                         alt=""
-                        src="/vector-3.svg"
+                        src="./vector-3.svg"
                       />
                     </div>
                   </div>
@@ -172,7 +172,7 @@ const HomeDetailed = () => {
                         className="h-[2.875rem] w-[3rem] relative rounded-8xs object-cover z-[4]"
                         loading="lazy"
                         alt=""
-                        src="/image-14@2x.png"
+                        src="./image-14@2x.png"
                       />
                       <div className="flex-1 flex flex-col items-start justify-start pt-[0.312rem] px-[0rem] pb-[0rem] box-border min-w-[19.313rem] max-w-full">
                         <div className="self-stretch flex flex-col items-start justify-start gap-[0.687rem] max-w-full">
@@ -203,7 +203,7 @@ const HomeDetailed = () => {
                               className="w-[1.063rem] h-[0.75rem] relative z-[4]"
                               loading="lazy"
                               alt=""
-                              src="/vector-161.svg"
+                              src="./vector-161.svg"
                             />
                           </div>
                           <div className="h-[1.5rem] w-[1.75rem] relative rounded-8xs bg-dimgray-200 z-[4]">
@@ -211,14 +211,14 @@ const HomeDetailed = () => {
                             <img
                               className="absolute top-[0.375rem] left-[0.438rem] w-[0.875rem] h-[0.75rem] z-[5]"
                               alt=""
-                              src="/vector-171.svg"
+                              src="./vector-171.svg"
                             />
                           </div>
                           <div className="flex flex-col items-start justify-start pt-[0.375rem] px-[0rem] pb-[0rem]">
                             <img
                               className="w-[0.938rem] h-[0.75rem] relative z-[4]"
                               alt=""
-                              src="/vector-181.svg"
+                              src="./vector-181.svg"
                             />
                           </div>
                         </div>
@@ -248,7 +248,7 @@ const HomeDetailed = () => {
                           className="h-[1.25rem] w-[1.25rem] relative rounded-8xs object-cover min-h-[1.25rem] z-[4]"
                           loading="lazy"
                           alt=""
-                          src="/image-16@2x.png"
+                          src="./image-16@2x.png"
                         />
                         <div className="flex flex-col items-start justify-start pt-[0.125rem] px-[0rem] pb-[0rem]">
                           <b className="relative inline-block min-w-[7.5rem] z-[4]">
@@ -264,7 +264,7 @@ const HomeDetailed = () => {
                           className="h-[1.25rem] w-[1.25rem] relative rounded-8xs object-cover min-h-[1.25rem] z-[4]"
                           loading="lazy"
                           alt=""
-                          src="/image-17@2x.png"
+                          src="./image-17@2x.png"
                         />
                         <div className="flex-1 flex flex-col items-start justify-start pt-[0.125rem] px-[0rem] pb-[0rem]">
                           <b className="self-stretch relative z-[4]">
@@ -298,7 +298,7 @@ const HomeDetailed = () => {
                     <img
                       className="h-[0.938rem] w-[0.938rem] relative object-contain min-h-[0.938rem] z-[5]"
                       alt=""
-                      src="/sent1@2x.png"
+                      src="./sent1@2x.png"
                     />
                   </div>
                 </div>
@@ -314,13 +314,13 @@ const HomeDetailed = () => {
                   className="absolute top-[0rem] left-[0.313rem] w-[1.25rem] h-[1.25rem]"
                   loading="lazy"
                   alt=""
-                  src="/vector-25.svg"
+                  src="./vector-25.svg"
                 />
                 <img
                   className="absolute top-[2.438rem] left-[0.313rem] w-[1.25rem] h-[1.25rem]"
                   loading="lazy"
                   alt=""
-                  src="/vector-26.svg"
+                  src="./vector-26.svg"
                 />
                 <div className="absolute top-[1.894rem] left-[0rem] box-border w-[1.906rem] h-[0.031rem] border-t-[0.5px] border-solid border-white" />
               </div>
@@ -329,7 +329,7 @@ const HomeDetailed = () => {
                   className="h-[1.25rem] w-[1.25rem] relative"
                   loading="lazy"
                   alt=""
-                  src="/vector-27.svg"
+                  src="./vector-27.svg"
                 />
               </div>
               <div className="flex flex-col items-start justify-start gap-[0.531rem]">
@@ -338,7 +338,7 @@ const HomeDetailed = () => {
                     className="h-[1.25rem] w-[1.25rem] relative"
                     loading="lazy"
                     alt=""
-                    src="/-x37-7-essential-icons.svg"
+                    src="./-x37-7-essential-icons.svg"
                   />
                 </div>
                 <div className="flex flex-row items-start justify-start py-[0rem] pr-[0.187rem] pl-[0.125rem]">
@@ -346,7 +346,7 @@ const HomeDetailed = () => {
                     className="h-[1.563rem] w-[1.563rem] relative object-cover"
                     loading="lazy"
                     alt=""
-                    src="/terms-and-conditions@2x.png"
+                    src="./terms-and-conditions@2x.png"
                   />
                 </div>
                 <div className="w-[1.906rem] h-[0.031rem] relative box-border border-t-[0.5px] border-solid border-white" />
@@ -356,7 +356,7 @@ const HomeDetailed = () => {
                   className="h-[1.25rem] w-[1.25rem] relative object-cover"
                   loading="lazy"
                   alt=""
-                  src="/alarm@2x.png"
+                  src="./alarm@2x.png"
                 />
               </div>
               <div className="flex flex-row items-start justify-start pt-[0rem] px-[0.312rem] pb-[0.218rem]">
@@ -364,7 +364,7 @@ const HomeDetailed = () => {
                   className="h-[1.25rem] w-[1.25rem] relative object-cover"
                   loading="lazy"
                   alt=""
-                  src="/help@2x.png"
+                  src="./help@2x.png"
                 />
               </div>
               <div className="flex flex-row items-start justify-start py-[0rem] px-[0.312rem]">
@@ -372,7 +372,7 @@ const HomeDetailed = () => {
                   className="h-[1.25rem] w-[1.25rem] relative object-cover cursor-pointer"
                   loading="lazy"
                   alt=""
-                  src="/logout-rounded@2x.png"
+                  src="./logout-rounded@2x.png"
                   onClick={onLogoutRoundedIconClick}
                 />
               </div>

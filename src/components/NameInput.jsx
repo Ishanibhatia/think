@@ -34,7 +34,7 @@ const NameInput = ({
           <img
             className="w-[0.875rem] h-[0.875rem] relative rounded-8xs object-cover z-[2]"
             alt=""
-            src="/sort-down@2x.png"
+            src="./sort-down@2x.png"
           />
         </div>
       </div>

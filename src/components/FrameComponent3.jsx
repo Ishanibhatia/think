@@ -13,7 +13,7 @@ const FrameComponent3 = ({ className = "", onDashboardTextClick }) => {
               className="w-[1.375rem] h-[1.313rem] relative overflow-hidden shrink-0 z-[1]"
               loading="lazy"
               alt=""
-              src="/list.svg"
+              src="./list.svg"
             />
           </div>
           <a
@@ -30,7 +30,7 @@ const FrameComponent3 = ({ className = "", onDashboardTextClick }) => {
             className="w-[1.125rem] h-[1.125rem] relative z-[1]"
             loading="lazy"
             alt=""
-            src="/vector.svg"
+            src="./vector.svg"
           />
         </div>
 
@@ -52,7 +52,7 @@ const FrameComponent3 = ({ className = "", onDashboardTextClick }) => {
           className="h-[2rem] w-[2rem] relative overflow-hidden shrink-0 z-[1]"
           loading="lazy"
           alt=""
-          src="/profile.svg"
+          src="./profile.svg"
         />
       </div>
     </header>

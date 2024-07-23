@@ -11,7 +11,7 @@ const FrameComponent7 = ({ className = "" }) => {
           className="h-[1.875rem] w-[1.875rem] relative object-cover z-[1]"
           loading="lazy"
           alt=""
-          src="/input@2x.png"
+          src="./input@2x.png"
         />
       </div>
       <div className="flex flex-col items-start justify-start gap-[2.368rem]">
@@ -19,45 +19,45 @@ const FrameComponent7 = ({ className = "" }) => {
           className="w-[2.5rem] h-[2.881rem] relative rounded-8xs object-cover z-[1]"
           loading="lazy"
           alt=""
-          src="/image-3@2x.png"
+          src="./image-3@2x.png"
         />
         <div className="flex flex-col items-start justify-start gap-[2.562rem]">
           <img
             className="w-[2.5rem] h-[2.881rem] relative rounded-8xs object-cover z-[1]"
             loading="lazy"
             alt=""
-            src="/image-4@2x.png"
+            src="./image-4@2x.png"
           />
           <img
             className="w-[2.5rem] h-[2.875rem] relative rounded-8xs object-cover z-[1]"
             loading="lazy"
             alt=""
-            src="/image-1@2x.png"
+            src="./image-1@2x.png"
           />
           <img
             className="w-[2.5rem] h-[2.875rem] relative rounded-8xs object-cover z-[1]"
             loading="lazy"
             alt=""
-            src="/image-2@2x.png"
+            src="./image-2@2x.png"
           />
           <div className="flex flex-col items-start justify-start gap-[2.368rem]">
             <img
               className="w-[2.5rem] h-[2.881rem] relative rounded-8xs object-cover z-[1]"
               loading="lazy"
               alt=""
-              src="/image-3@2x.png"
+              src="./image-3@2x.png"
             />
             <img
               className="w-[2.5rem] h-[2.881rem] relative rounded-8xs object-cover z-[1]"
               loading="lazy"
               alt=""
-              src="/image-4@2x.png"
+              src="./image-4@2x.png"
             />
             <img
               className="w-[2.5rem] h-[2.875rem] relative rounded-8xs object-cover z-[1]"
               loading="lazy"
               alt=""
-              src="/image-2@2x.png"
+              src="./image-2@2x.png"
             />
           </div>
         </div>

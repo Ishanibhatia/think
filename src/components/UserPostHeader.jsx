@@ -28,17 +28,17 @@ const UserPostHeader = ({ className = "", anaHathway, image8 }) => {
         <img
           className="h-[0.75rem] w-[0.875rem] relative min-h-[0.75rem] z-[2]"
           alt=""
-          src="/vector-1.svg"
+          src="./vector-1.svg"
         />
         <img
           className="h-[0.75rem] w-[0.75rem] relative min-h-[0.75rem] z-[2]"
           alt=""
-          src="/vector-2.svg"
+          src="./vector-2.svg"
         />
         <img
           className="h-[0.75rem] w-[0.75rem] relative min-h-[0.75rem] z-[2]"
           alt=""
-          src="/vector-3.svg"
+          src="./vector-3.svg"
         />
       </div>
     </div>

@@ -37,7 +37,7 @@ const FillTheFormIndustrialExper = () => {
             <img
               className="h-[1.875rem] w-[1.875rem] relative object-cover z-[2]"
               alt=""
-              src="/tearoff-calendar@2x.png"
+              src="./tearoff-calendar@2x.png"
             />
           </div>
         </div>

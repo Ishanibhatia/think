@@ -9,7 +9,7 @@ const MacBookAir1 = () => {
     //   <img
     //     className="h-full w-full absolute !m-[0] top-[0rem] right-[0rem] bottom-[0rem] left-[0rem] max-w-full overflow-hidden max-h-full object-cover"
     //     alt=""
-    //     src="/image-20@2x.png"
+    //     src="./image-20@2x.png"
     //   />
     //   <FrameComponent2 />
     // </div>
@@ -19,7 +19,7 @@ const MacBookAir1 = () => {
         className="absolute top-0 left-0 w-[10.063rem] object-cover"
         loading="lazy"
         alt=""
-        src="/image-19@2x.png"
+        src="./image-19@2x.png"
       />
       <Content />
       <div className="absolute top-1/2 left-1/2  transform -translate-x-1/2 -translate-y-1/2 p-4 z-[999]">

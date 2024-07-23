@@ -20,7 +20,7 @@ const DescriptionField = ({ className = "" }) => {
           <img
             className="h-[0.875rem] w-[0.875rem] relative rounded-8xs object-contain z-[3]"
             alt=""
-            src="/sort-down1@2x.png"
+            src="./sort-down1@2x.png"
           />
         </div>
       </div>

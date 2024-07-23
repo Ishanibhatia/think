@@ -7,7 +7,7 @@ const LoginPage = () => {
         className="absolute top-0 left-0 w-[10.063rem] object-cover"
         loading="lazy"
         alt=""
-        src="/image-19@2x.png"
+        src="./image-19@2x.png"
       />
       <section className="self-stretch flex flex-row items-start justify-center py-[0rem] px-[1.25rem] box-border max-w-full">
         <FrameComponent1 />

@@ -29,7 +29,7 @@ const ThreadMessages = ({
           className="h-[2.881rem] w-[2.5rem] relative rounded-8xs object-cover z-[1]"
           loading="lazy"
           alt=""
-          src="/image-4@2x.png"
+          src="./image-4@2x.png"
         />
         <div className="flex-1 flex flex-col items-start justify-start gap-[0.812rem]">
           <div
@@ -49,7 +49,7 @@ const ThreadMessages = ({
           className="self-stretch w-[2.5rem] relative rounded-8xs max-h-full object-cover min-h-[2.875rem] z-[1]"
           loading="lazy"
           alt=""
-          src="/image-2@2x.png"
+          src="./image-2@2x.png"
         />
         <div className="flex flex-col items-start justify-start gap-[0.812rem]">
           <div
