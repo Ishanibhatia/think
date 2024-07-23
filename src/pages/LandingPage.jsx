@@ -21,7 +21,7 @@ const LandingPage = () => {
         muted
         loop
       >
-        <source src="/Screen Recording 2024-07-20 030918.mp4" type="video/mp4" />
+        <source src="./Screen Recording 2024-07-20 030918.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
       <h1 className="m-0 w-[35.75rem] relative text-inherit font-bold font-inherit inline-block [text-shadow:10px_4px_4px_#000] max-w-full z-[2] mq450:text-[3.125rem] mq750:text-[5rem]">
