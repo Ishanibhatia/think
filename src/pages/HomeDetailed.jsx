@@ -52,7 +52,7 @@ const HomeDetailed = () => {
               <div className="self-stretch flex flex-col items-start justify-start gap-[0.312rem] max-w-full text-[0.813rem] text-lightsteelblue-100">
                 <UserPostHeader
                   anaHathway="@ana_hathway"
-                  image8="/image-8@2x.png"
+                  image8="./image-8@2x.png"
                 />
                 <div className="self-stretch flex flex-row items-start justify-start pt-[0rem] px-[0rem] pb-[0.187rem] box-border max-w-full">
                   <div className="flex-1 bg-black box-border flex flex-row items-start justify-start pt-[1.187rem] px-[1.437rem] pb-[0.5rem] gap-[1.187rem] max-w-full z-[1] border-t-[0.5px] border-solid border-lightsteelblue-100 border-b-[0.5px] mq450:flex-wrap">
@@ -144,11 +144,11 @@ const HomeDetailed = () => {
                 </div>
                 <UserPostHeader
                   anaHathway="@ali_zafar"
-                  image8="/image-11@2x.png"
+                  image8="./image-11@2x.png"
                 />
                 <UserPostHeader
                   anaHathway="@taylor_alison swift"
-                  image8="/image-12@2x.png"
+                  image8="./image-12@2x.png"
                 />
               </div>
             </div>

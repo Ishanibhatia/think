@@ -46,7 +46,7 @@ const MainDashboard = () => {
               </div>
               {/* Rest of the content */}
               <div className="self-stretch flex flex-col items-start justify-start gap-[0.312rem] max-w-full text-[0.813rem] text-lightsteelblue-100">
-                <UserTop anaHathway="@ana_hathway" image8="/image-8@2x.png" />
+                <UserTop anaHathway="@ana_hathway" image8="./image-8@2x.png" />
                 <div className="self-stretch flex flex-row items-end justify-start pt-[1.25rem] px-[1.437rem] pb-[0.562rem] box-border relative min-h-[6.125rem] max-w-full">
                   <div
                     className="h-[calc(100%_-_3px)] w-full absolute !m-[0] top-[0rem] right-[0rem] bottom-[0.188rem] left-[0rem] bg-black cursor-pointer"
@@ -54,7 +54,7 @@ const MainDashboard = () => {
                   />
                   <div className="flex-1 flex flex-col items-start justify-end pt-[0rem] px-[0rem] pb-[1.243rem] box-border max-w-full">
                     <div className="self-stretch flex flex-row items-start justify-start gap-[1.187rem] max-w-full mq450:flex-wrap">
-                      <div className="h-[2.881rem] w-[2.5rem] relative rounded-8xs bg-[url('/image-8@2x.png')] bg-cover bg-no-repeat bg-[top] z-[1]">
+                      <div className="h-[2.881rem] w-[2.5rem] relative rounded-8xs bg-[url('./image-8@2x.png')] bg-cover bg-no-repeat bg-[top] z-[1]">
                         <img
                           className="absolute top-[0rem] left-[0rem] rounded-8xs w-full h-full object-cover hidden"
                           alt=""
@@ -147,10 +147,10 @@ const MainDashboard = () => {
                     </div>
                   </div>
                 </div>
-                <UserTop anaHathway="@ali_zafar" image8="/image-11@2x.png" />
+                <UserTop anaHathway="@ali_zafar" image8="./image-11@2x.png" />
                 <UserTop
                   anaHathway="@taylor_alison swift"
-                  image8="/image-12@2x.png"
+                  image8="./image-12@2x.png"
                 />
                 {/* <UserTop
                   anaHathway="@taylor_alison swift"
@@ -164,7 +164,7 @@ const MainDashboard = () => {
                   />
                   <div className="flex-1 flex flex-col items-start justify-end pt-[0rem] px-[0rem] pb-[1.243rem] box-border max-w-full">
                     <div className="self-stretch flex flex-row items-start justify-start gap-[1.187rem] max-w-full mq450:flex-wrap">
-                      <div className="h-[2.881rem] w-[2.5rem] relative rounded-8xs bg-[url('/image-8@2x.png')] bg-cover bg-no-repeat bg-[top] z-[1]">
+                      <div className="h-[2.881rem] w-[2.5rem] relative rounded-8xs bg-[url('./image-8@2x.png')] bg-cover bg-no-repeat bg-[top] z-[1]">
                         <img
                           className="absolute top-[0rem] left-[0rem] rounded-8xs w-full h-full object-cover hidden"
                           alt=""
