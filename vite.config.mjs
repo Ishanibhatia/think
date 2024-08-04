@@ -6,6 +6,6 @@ export default defineConfig({
   build: {
     outDir: "build",
   },
-  base: '/think/',
+  base: '/minions-analogkairos/',
   plugins: [react()],
 });

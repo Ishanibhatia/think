@@ -8,7 +8,7 @@ const container = document.getElementById("root");
 const root = createRoot(container);
 
 root.render(
-  <BrowserRouter basename="/think">
+  <BrowserRouter basename="/minions-analogkairos">
     <App />
   </BrowserRouter>
 
